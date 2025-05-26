@@ -6,7 +6,7 @@ These certificates complement a broader autonomous learning journey, and support
 
 ---
 
-## 🧠 Intent
+##  Intent
 > To provide transparent proof of completed online training modules, as a traceable and accessible component of a public cognitive profile. 
 
 All courses were chosen for their alignment with the following focus areas:
