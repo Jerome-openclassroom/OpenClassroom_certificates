@@ -2,7 +2,7 @@
 
 This repository contains certificates of completion for online courses followed by **Jérôme Frasson** via OpenClassrooms.
 
-These certificates complement a broader autonomous learning journey, and support the experimental and applied projects available in the [Lyra repositories](https://github.com/Jerome-X1).
+These certificates complement a broader autonomous learning journey, and support the experimental and applied projects available in the [Lyra repositories](https://github.com/Jerome-openclassroom).
 
 ---
 
