@@ -70,10 +70,10 @@ All courses were chosen for their alignment with the following focus areas:
 ---
 
 ## 🔗 Related Repositories
-- [Lyra_Leaf_Chlorose](https://github.com/Jerome-X1/Lyra_Leaf_Chlorose)
-- [Lyra Immo](https://github.com/Jerome-X1/Lyra_Immo)
-- [n8n_meteorological_calculations](https://github.com/Jerome-X1/n8n_meteorological_calculations)
-- [Full GitHub Profile](https://github.com/Jerome-X1)
+- [Lyra_Leaf_Chlorose](https://github.com/Jerome-openclassroom/Leaf_Chlorose_CNN_Training)
+- [Lyra Immo](https://github.com/Jerome-openclassroom/lyra_immo)
+- [n8n_meteorological_calculations](https://github.com/Jerome-openclassroom/n8n_meteorological_calculations)
+- [Full GitHub Profile](https://github.com/Jerome-openclassroom)
 
 ---
 
